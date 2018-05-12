@@ -1,4 +1,5 @@
 _repo: Castara-The-Third-Edition-of-1640-Edited-and-Collated-with-the-Earlier-Ones-of-1634-1635_47462
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,12 +9,17 @@ contributor:
       gutenberg_agent_id: '3122'
       url: http://www.gutenberg.org/2009/agents/3122
       wikipedia: http://en.wikipedia.org/wiki/Edward_Arber
+covers:
+- cover_type: archival
+  image_path: 47462-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Habington, William
     gutenberg_agent_id: '44326'
     url: http://www.gutenberg.org/2009/agents/44326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47462#Castara-The-Third-Edition-of-1640-Edited-and-Collated-with-the-Earlier-Ones-of-1634-1635
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
 identifiers:
